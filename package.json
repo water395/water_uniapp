@@ -1,0 +1,23 @@
+{
+  "name": "water_uniapp",
+  "version": "1.0.0",
+  "description": "学习uniapp 项目创建 （1）编译器直接创建 （2）命令行：vue create -p dcloudio/uni-preset-vue [文件名]",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/water395/water_uniapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/water395/water_uniapp/issues"
+  },
+  "homepage": "https://github.com/water395/water_uniapp#readme",
+  "dependencies": {
+    "uview-ui": "^2.0.33"
+  }
+}
