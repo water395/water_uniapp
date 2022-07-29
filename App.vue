@@ -1,14 +1,9 @@
 <script>
 	export default {
-		onLaunch: function() {
-			
-		},
-		onShow: function() {
-			console.log(uni.$u.config.v)
-		},
-		onHide: function() {
-			console.log('App Hide')
-		}
+		globalData:{},
+		onLaunch: function() {},
+		onShow: function() {},
+		onHide: function() {}
 	}
 </script>
 

@@ -8,6 +8,7 @@
 </template>
 
 <script>
+	import { getMenu  } from '../../common/api.js';
 	export default {
 		data() {
 			return {
@@ -15,7 +16,10 @@
 			}
 		},
 		onLoad() {
-
+			// getMenu().then((res)=>{
+			// 	console.log(res)
+			// })
+		// const abc = await getMenu();
 		},
 		methods: {
 
