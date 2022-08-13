@@ -20,20 +20,20 @@
         }
     ],
 	"tabBar": {
-		"color": "#7A7E83",
-		"selectedColor": "#3cc51f",
-		"borderStyle": "black",
+		// "color": "#7A7E83",
+		// "selectedColor": "#3cc51f",
+		"borderStyle": "none",
 		"backgroundColor": "#ffffff",
 		"list": [{
 			"pagePath": "pages/index/index",
-			"iconPath": "",
-			"selectedIconPath": "",
-			"text": "首页"
+			"iconPath": "static/icon/tab_homeicon_default.png",
+			"selectedIconPath": "static/icon/tab_homeicon_selected.png",
+			"text": ""
 		}, {
 			"pagePath": "pages/my/my",
-			"iconPath": "",
-			"selectedIconPath": "",
-			"text": "我的"
+			"iconPath": "static/icon/tab_myicon_default.png",
+			"selectedIconPath": "static/icon/tab_myicon_selected.png",
+			"text": ""
 		}]
 	},
 	"globalStyle": {

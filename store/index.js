@@ -30,7 +30,7 @@ const saveLifeData = function(key,value){
 
 export default new Vuex.Store({
 	state:{},
-	actions:{}
+	actions:{},
 	mutations:{},
 	getters:{},
 	modules:{}
